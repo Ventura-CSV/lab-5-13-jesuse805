@@ -6,7 +6,6 @@ def findEvenNumber(numbers):
     for num in numbers:
         if num % 2 == 0:
             yield num
-    
 
 
 def main():
